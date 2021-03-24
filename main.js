@@ -6,3 +6,4 @@ const app = Vue.createApp({
         }
     }
 })
+
